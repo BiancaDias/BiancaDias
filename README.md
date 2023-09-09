@@ -11,6 +11,7 @@ Sobre mim:
 - Não sei escolher entre back-end e front-end! Os dois tem meu coração!
 - Iniciei profissionalmente na tecnologia a 3 anos mas sempre me interessei por ela
 - Tudo começou com o C++
+- Minha evolução está registrada nesse perfil! Desde os meus primeiros "Hello Worls" até os códigos mais complexos que estudo hoje
 - quer saber mais? Entre em contato: biasdias96@gmail.com
 
 
