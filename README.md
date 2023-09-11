@@ -36,6 +36,12 @@ Sobre mim:
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaDias&repo=BiancaDias)
+<div align="center">
+  <div align="center">
+  <a href="http://www.github.com/BiancaDias"><img height='180em' src="https://github-readme-stats.vercel.app/api?username=BiancaDias&show_icons=true&hide=&count_private=true&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true&show_icons=true" alt="BiancaDias's GitHub stats" /></a>
+    <a href="http://www.github.com/BiancaDias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaDias&layout=compact&langs_count=7&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true"/></a>
+   
+  </div>
 
 
